@@ -1,3 +1,5 @@
+
+
 interface   Interface_oops{
      void display1();
 }

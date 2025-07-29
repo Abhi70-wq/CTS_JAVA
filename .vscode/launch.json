@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ARRAY_LIST",
+            "request": "launch",
+            "mainClass": "ARRAY_LIST",
+            "projectName": "CTS TRAINING_d9daf087"
+        },
+        {
+            "type": "java",
+            "name": "Array_List",
+            "request": "launch",
+            "mainClass": "Array_List",
+            "projectName": "CTS TRAINING_d9daf087"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "CTS TRAINING_d9daf087"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FIBNOCHI",
+            "request": "launch",
+            "mainClass": "FIBNOCHI",
+            "projectName": "CTS TRAINING_d9daf087"
+        },
+        {
+            "type": "java",
+            "name": "OOPS",
+            "request": "launch",
+            "mainClass": "OOPS",
+            "projectName": "CTS TRAINING_d9daf087"
+        },
+        {
+            "type": "java",
+            "name": "PALINDROME",
+            "request": "launch",
+            "mainClass": "PALINDROME",
+            "projectName": "CTS TRAINING_d9daf087"
+        },
+        {
+            "type": "java",
+            "name": "SUPER_KEYWORD",
+            "request": "launch",
+            "mainClass": "SUPER_KEYWORD",
+            "projectName": "CTS TRAINING_d9daf087"
+        },
+        {
+            "type": "java",
+            "name": "fib_through_recursion",
+            "request": "launch",
+            "mainClass": "fib_through_recursion",
+            "projectName": "CTS TRAINING_d9daf087"
+        }
+    ]
+}
